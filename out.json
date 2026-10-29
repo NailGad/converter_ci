@@ -1,0 +1,17 @@
+[
+  {
+    "city": "Moscow",
+    "name": "Eva",
+    "role": "Engineer"
+  },
+  {
+    "city": "New York",
+    "name": "Piter",
+    "role": "Developer"
+  },
+  {
+    "city": "Monte Carlo",
+    "name": "Danil",
+    "role": "Researcher"
+  }
+]
